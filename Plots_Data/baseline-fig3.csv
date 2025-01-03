@@ -1,0 +1,7 @@
+﻿Algorithm,Recoverability,CE,RMS3
+TriCluster,0.604,0.918,0.199
+TCTriCluster,0.367,0.898,0.223
+delta-Trimax,,,
+TriGen - LSL,0.759,0.993,0.210
+TriGen - MSL,0.789,0.994,0.205
+TriGen - MSR3D,0.278,0.984,0.201

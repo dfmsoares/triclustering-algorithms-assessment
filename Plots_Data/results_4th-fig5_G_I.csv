@@ -1,0 +1,25 @@
+﻿Algorithm,Recoverability,CE,RMS3,Pattern Type
+TriCluster,0.524,0.960,0.353,Constant
+TCTriCluster,0.296,0.946,0.344,Constant
+delta-Trimax,0.005,0.995,0.569,Constant
+TriGen - LSL,0.781,0.992,0.216,Constant
+TriGen - MSL,0.784,0.994,0.211,Constant
+TriGen - MSR3D,0.303,0.984,0.204,Constant
+TriCluster,0.514,0.957,0.346,Additive
+TCTriCluster,0.514,0.957,0.346,Additive
+delta-Trimax,,,,Additive
+TriGen - LSL,0.764,0.993,0.211,Additive
+TriGen - MSL,0.770,0.994,0.205,Additive
+TriGen - MSR3D,0.297,0.985,0.209,Additive
+TriCluster,0.558,0.954,0.396,Multiplicative
+TCTriCluster,0.535,0.828,0.297,Multiplicative
+delta-Trimax,,,,Multiplicative
+TriGen - LSL,0.799,0.993,0.212,Multiplicative
+TriGen - MSL,0.801,0.994,0.209,Multiplicative
+TriGen - MSR3D,0.302,0.983,0.209,Multiplicative
+TriCluster,0.034,0.994,0.119,Order Preserving
+TCTriCluster,0.036,0.988,0.122,Order Preserving
+delta-Trimax,,,,Order Preserving
+TriGen - LSL,0.784,0.992028115,0.205404542,Order Preserving
+TriGen - MSL,0.864333333,0.993966515,0.19805722,Order Preserving
+TriGen - MSR3D,0.266333333,0.98459152,0.194933862,Order Preserving
